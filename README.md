@@ -1,7 +1,6 @@
-### Hi there 👋
 
 
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Szymon 👋
 
 ## 🚀 About Me
 I'm a 17-year-old Django developer passionate about building dynamic and responsive web applications. My journey in web development started at a young age, and since then, I've been constantly learning and growing in this field.
